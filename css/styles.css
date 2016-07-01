@@ -1,0 +1,32 @@
+#title{
+	text-align: center;
+	background-color: grey;
+	color: black;
+	margin-right: 150px;
+	margin-left: 150px;
+}
+
+#leftSquare{
+	text-align: center;
+	height: 300px;
+	width: 150px;
+	color: black;
+	background-color: grey;
+	margin-left: 150px;
+	padding: 50px;
+	padding-right: 275px;
+}
+
+#rightSquare{
+	text-align: center;
+	height: 300px;
+	width: 150px;
+	color: black;
+	background-color: grey;
+	margin-left: 700px;
+	padding: 50px;
+	padding-right: 300px;
+	margin-top: -415px;
+	margin-bottom: 800px;
+
+}
