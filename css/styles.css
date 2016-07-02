@@ -4,6 +4,8 @@
 	color: black;
 	margin-right: 150px;
 	margin-left: 150px;
+	height: 50px;
+	border-radius: 50px;
 }
 
 #leftSquare{
@@ -12,21 +14,61 @@
 	width: 150px;
 	color: black;
 	background-color: grey;
-	margin-left: 150px;
+	margin-left: 550px;
 	padding: 50px;
-	padding-right: 275px;
+	border-radius: 50px;
 }
 
-#rightSquare{
-	text-align: center;
-	height: 300px;
-	width: 150px;
-	color: black;
-	background-color: grey;
-	margin-left: 700px;
-	padding: 50px;
-	padding-right: 300px;
-	margin-top: -415px;
-	margin-bottom: 800px;
+
+
+.button {
+    background-color: grey;
+    border: none;
+    color: black;
+    text-align: center;
+    display: inline-block;
+    font-size: 55px;
+    margin: 2px 2px;
+    cursor: pointer;
+    margin-left: 150px;
+    line-height: 100px;
+    width:475px;
+    border-radius: 50px;
 
 }
+.button2 {
+    background-color: grey;
+    border: none;
+    color: black;
+    text-align: center;
+    display: inline-block;
+    font-size: 55px;
+    margin: -333333333px 2px;
+    cursor: pointer;
+    margin-left: 710px;
+    line-height: 100px;
+    width:500px;
+    border-radius: 50px;
+}
+
+#soaps{
+	margin-top: -500px;
+	padding: 0;
+	height: 400px;
+	width: 300px;
+	margin-left: 200px;
+	margin-bottom: 85px;
+	border-radius: 50px;
+}
+
+#soapz{
+	margin-top: -520px;
+	padding: 0;
+	height: 400px;
+	width: 300px;
+	margin-left: 220px;
+	margin-bottom: 180px;
+	border-radius: 50px;
+}
+
+
